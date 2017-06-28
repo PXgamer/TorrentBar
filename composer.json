@@ -1,0 +1,12 @@
+{
+  "name": "tracker/torrent-bar",
+  "description": "Script for showing users statistics (upload, download, ratio) of torrent trackers based on Torrent Pier.",
+  "minimum-stability": "stable",
+  "type": "project",
+  "license": "GPL-2.0",
+  "autoload": {
+    "psr-4": {
+      "TracKer\\TorrentBar\\": "src/"
+    }
+  }
+}
