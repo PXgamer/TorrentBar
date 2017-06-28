@@ -48,7 +48,7 @@
 // Database Presets
 $torrentpier_config_path = "/home/test-torrent/www/forum/config.php";
 
-// Template Presrts
+// Template Presets
 $template_background = "./template/bg.png";
 $template_reflection = "./template/ref.png";
 
